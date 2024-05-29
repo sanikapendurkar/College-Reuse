@@ -13,6 +13,3 @@ Are you a college student looking to save money and reduce waste? Look no furthe
 4. **Community Chat:** Connect with other students, ask questions, and negotiate prices directly through our chat feature.
 
 5. **Sustainability Impact:** By reusing items, you're contributing to a greener campus. Track your environmental impact through our "Eco Points" system.
-
-Hello
-
